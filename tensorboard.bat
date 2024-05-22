@@ -1,0 +1,1 @@
+tensorboard.exe --logdir=C:\Users\alex2\Desktop\Library\semester_5\Game_theory_and_operations_research\InversePendulumStabilizationOpenAIv\logs 
